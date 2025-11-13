@@ -35,7 +35,7 @@
 
 | 微調腳本 |
 | --- |
-| [Nitrux Kde Plasma Config](https://github.com/samwhelp/nitrux-kde-plasma-adjustment/tree/main/prototype/main/nitrux-config/part/Main) |
+| [Nitrux Kde Plasma Config](https://github.com/samwhelp/nitrux-kde-plasma-adjustment/tree/main/prototype/main/nitrux-config/locale/en_us/Nitrux-Dark) |
 | [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main) |
 
 

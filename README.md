@@ -31,6 +31,8 @@
 
 ## 微調腳本
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-nitrux-kde-plasma/read/cheatsheet/keybind.html)
+
 | 微調腳本 |
 | --- |
 | [Nitrux Kde Plasma Config](https://github.com/samwhelp/nitrux-kde-plasma-adjustment/tree/main/prototype/main/kde-plasma-config/part/Main) |
@@ -40,6 +42,14 @@
 
 
 ## 相關筆記
+
+| Link | GitHub |
+| ---- | ------ |
+| [Lingmo OS 探索筆記](https://samwhelp.github.io/note-about-lingmo/) | [GitHub](https://github.com/samwhelp/note-about-lingmo) |
+| [GXDE OS 探索筆記](https://samwhelp.github.io/note-about-gxde/) | [GitHub](https://github.com/samwhelp/note-about-gxde) |
+
+
+
 
 | Link | GitHub |
 | ---- | ------ |

@@ -22,6 +22,10 @@
 
 ## 注意事項
 
+* [Release Announcement: Nitrux 5.0.0](https://nxos.org/changelog/release-announcement-nitrux-5-0-0/)
+* [News: Farewell NX Desktop (and Plasma)](https://nxos.org/news/news-farewell-nx-desktop-and-plasma/)
+* [Plasma 6 in Nitrux, when?](https://nxos.org/news/plasma-6-in-nitrux-when/)
+
 
 
 
